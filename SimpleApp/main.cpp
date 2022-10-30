@@ -7,8 +7,8 @@
 
 #include <iostream>
 
-int main(int argc, const char * argv[]) {
-    // insert code here...
+int main() {
+    
     std::cout << "Hallo Xcode-Welt!\n";
     return 0;
 }
